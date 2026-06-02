@@ -76,3 +76,45 @@ This repository includes multiple lab tasks such as:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/AwaisArbab/COAL_Lab.git
+
+2. Navigate to Project Folder
+cd COAL_Lab
+3. Open Any Lab Folder
+cd "Lab 01"
+4. Run Assembly Program
+🔹 EMU8086 (Recommended)
+Open EMU8086
+Load .asm file
+Click Compile
+Click Run
+View output in emulator
+🔹 MASM (Windows)
+ml program.asm
+program.exe
+🔹 NASM (Linux / WSL)
+nasm -f elf32 program.asm -o program.o
+ld -m elf_i386 -o program program.o
+./program
+5. Output
+
+The program output will appear in the emulator or terminal depending on the tool used.
+
+💡 Learning Outcomes
+
+After completing this lab work, I gained:
+
+Strong understanding of low-level programming
+Knowledge of CPU instruction execution
+Ability to write and debug assembly programs
+Understanding of memory and register operations
+Problem-solving using hardware-level logic
+👨‍💻 Author
+
+Awais Arbab
+Computer Science Student
+AI & Software Development Enthusiast
+Passionate about low-level systems and backend development
+
+📌 Note
+
+This repository is created for educational and academic purposes only. All programs are part of COAL lab exercises and assignments.
