@@ -1,40 +1,78 @@
-# COAL Lab 🧪
+# 🧠 COAL Lab (Computer Organization & Assembly Language)
 
-A Computer Organization and Assembly Language (COAL) Lab repository containing practical implementations, assignments, and experiments related to low-level programming, processor architecture, and assembly language concepts.
-
----
+![Assembly Language](https://img.shields.io/badge/Language-Assembly-blue)
+![Status](https://img.shields.io/badge/Status-Active-green)
+![Purpose](https://img.shields.io/badge/Purpose-Academic%20Lab%20Work-orange)
 
 ## 📌 Overview
 
-This repository is created for academic learning and hands-on practice of core COAL concepts. It includes assembly-level programs and experiments that demonstrate how a processor executes instructions at a low level.
+This repository contains my **Computer Organization and Assembly Language (COAL) Lab work**, including programming assignments, practical exercises, and experiments related to low-level system programming.
 
-The main focus areas include:
-- Assembly language programming
-- CPU architecture concepts
-- Instruction execution and machine-level understanding
-- Low-level problem solving using assembly
+The goal of this repository is to strengthen understanding of how a computer works at the **hardware and instruction level**, including CPU architecture, memory handling, and assembly language programming.
 
 ---
 
-## 🧠 Topics Covered
+## 🎯 Objectives
 
-- Basics of Assembly Language
-- Data Movement Instructions
-- Arithmetic and Logical Operations
-- Control Flow (Loops & Branching)
-- Functions and Stack Operations
-- Memory Management Concepts
-- Register-level programming
-- COAL lab assignments and exercises
+- Understand CPU architecture and instruction execution cycle  
+- Learn assembly language programming concepts  
+- Practice low-level programming using registers and memory  
+- Implement logic using machine-level instructions  
+- Gain hands-on experience with system-level computation  
 
 ---
 
-## 🛠️ Technologies Used
+## 📚 Topics Covered
 
-- Assembly Language (x86 / MASM / NASM depending on lab setup)
-- Emulator / Compiler (e.g., DOSBox, EMU8086, or similar tools)
-- Windows / Linux environment
+### 🔹 Assembly Language Basics
+- Syntax and structure of assembly programs  
+- Data definition and storage  
+
+### 🔹 Instructions
+- Data transfer instructions  
+- Arithmetic operations  
+- Logical operations (AND, OR, XOR, NOT)  
+
+### 🔹 Control Flow
+- Conditional jumps  
+- Loops  
+- Branching mechanisms  
+
+### 🔹 Advanced Concepts
+- Stack operations  
+- Procedures and functions  
+- Memory addressing modes  
+- Register manipulation  
 
 ---
 
-## 📂 Repository Structure
+## 🧪 Lab Work Included
+
+This repository includes multiple lab tasks such as:
+
+- Basic input/output programs  
+- Arithmetic calculators using assembly  
+- Loop-based pattern programs  
+- Conditional decision-making programs  
+- Stack and procedure-based programs  
+- Practice exercises given in COAL lab sessions  
+
+---
+
+## 🛠️ Tools & Environment
+
+- Assembly Language (x86 architecture)  
+- Emulator/Assembler: EMU8086 / MASM / NASM (as used in labs)  
+- Windows / Linux environment  
+- DOSBox (if required for execution)  
+
+---
+
+
+---
+
+## ▶️ How to Run
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/AwaisArbab/COAL_Lab.git
