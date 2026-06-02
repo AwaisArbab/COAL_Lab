@@ -70,12 +70,11 @@ This repository includes multiple lab tasks such as:
 
 
 ---
+### This repository is created for educational and academic purposes only. All programs are part of COAL lab exercises and assignments.
 
 ## ▶️ How to Run
 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/AwaisArbab/COAL_Lab.git
- --- 
 
-###This repository is created for educational and academic purposes only. All programs are part of COAL lab exercises and assignments.
